@@ -275,6 +275,10 @@ header .navigation.active .navigation-items{
 }
 
 @media (max-width: 560px){
+    .home .content {
+        padding-bottom: 100px;
+        
+    }
     p{
         font-size: 0.9em;
     }
