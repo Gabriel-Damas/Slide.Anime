@@ -235,20 +235,20 @@ section{
 
     header .navigation .navigation-items a{
         color: #222;
-        font-size: 1.2em;
-        margin: 20px;
+        font-size: 0.8em;
+        margin: 10px;
     }
 
     header .navigation .navigation-items a:before{
         background: #222;
-        height: 5px;
+        height: 2px;
 } 
 header .navigation.active .navigation-items{
      background: #fff;
-     width: 600px;
-     max-width: 600px;
-     margin: 20px;
-     padding: 40px;
+     width: 500px;
+     max-width: 500px;
+     margin: 10px;
+     padding: 30px;
      display: flex;
      flex-direction: column;
      align-items: center;
@@ -260,8 +260,8 @@ header .navigation.active .navigation-items{
     background: url(menu.png)no-repeat;
     background-size: 30px;
     background-position: center;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     cursor: pointer;
     transition: 0.3s ease;
 }
@@ -269,7 +269,7 @@ header .navigation.active .navigation-items{
 .menu-btn.active{
     z-index: 999;
     background: url(close.png)no-repeat;
-    background-size: 25px;
+    background-size: 15px;
     background-position: center;
     transition: 0.3s ease;
 }
