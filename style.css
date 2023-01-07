@@ -282,17 +282,17 @@ header .navigation.active .navigation-items{
     }
     .home .content h1{
         font-size: 1.4em;
-        line-height: 60px;
+        line-height: 50px;
     }
 }
 
 @media (max-width: 360px){
     
     p{
-        font-size: 0.7em;
+        font-size: 0.6em;
     }
     .home .content h1{
-        font-size: 1.3em;
+        font-size: 1.1em;
         line-height: 60px;
     }
 }
