@@ -289,10 +289,10 @@ header .navigation.active .navigation-items{
 @media (max-width: 360px){
     
     p{
-        font-size: 0.5em;
+        font-size: 0.7em;
     }
     .home .content h1{
-        font-size: 1.1em;
+        font-size: 1.3em;
         line-height: 60px;
     }
 }
