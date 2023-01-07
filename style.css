@@ -206,10 +206,10 @@ section{
 
 @media (max-width: 1040px){
     header{
-        padding: 12px 20px;
+        padding: 5px 10px;
     }
     section{
-        padding: 10px 9px;
+        padding: 100px 9px;
     }
 
     .home .media-icons{
