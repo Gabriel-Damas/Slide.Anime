@@ -208,6 +208,10 @@ section{
     header{
         padding: 12px 20px;
     }
+    .home .content {
+        padding-bottom: 100px;
+        
+    }
     section{
         padding: 100px 9px;
     }
