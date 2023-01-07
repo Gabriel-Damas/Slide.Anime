@@ -285,3 +285,14 @@ header .navigation.active .navigation-items{
         line-height: 60px;
     }
 }
+
+@media (max-width: 360px){
+    
+    p{
+        font-size: 0.5em;
+    }
+    .home .content h1{
+        font-size: 1.1em;
+        line-height: 60px;
+    }
+}
