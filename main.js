@@ -15,7 +15,7 @@ var sliderNav = function(manual){
         btn.classList.remove("active");
     
 }); 
-
+ 
 slides.forEach((slide) => {
     slide.classList.remove("active");
 });
