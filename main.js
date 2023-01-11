@@ -22,7 +22,7 @@ slides.forEach((slide) => {
 
 contents.forEach((content) => {
     content.classList.remove("active");
-});
+}); 
 
 btns[manual].classList.add("active");
 slides[manual].classList.add("active");
