@@ -256,16 +256,6 @@ header .navigation.active .navigation-items{
      box-shadow: 0 5px 25px rgb(1 1 1 / 20%);
 }
 
-.menu-btn{
-    background: url(menu.png)no-repeat;
-    background-size: 30px;
-    background-position: center;
-    width: 30px;
-    height: 30px;
-    cursor: pointer;
-    transition: 0.3s ease;
-}
-
 .menu-btn.active{
     z-index: 999;
     background: url(close.png)no-repeat;
