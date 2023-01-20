@@ -242,11 +242,11 @@ section{
     header .navigation .navigation-items a:before{
         background: #222;
         height: 2px;
-}  
+}   
 header .navigation.active .navigation-items{
      background: #fff;
      width: 500px;
-     max-width: 500px;
+     max-width: 500px; 
      margin: 10px;
      padding: 30px;
      display: flex;
