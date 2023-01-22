@@ -238,7 +238,7 @@ section{
         font-size: 0.8em;
         margin: 10px;
     }  
-   
+    
     header .navigation .navigation-items a:before{
         background: #222;
         height: 2px;
@@ -254,7 +254,7 @@ header .navigation.active .navigation-items{
      align-items: center;
      border-radius: 5px;
      box-shadow: 0 5px 25px rgb(1 1 1 / 20%);
-} 
+}  
     
 .menu-btn.active{
     z-index: 999;
