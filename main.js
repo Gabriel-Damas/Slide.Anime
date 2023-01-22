@@ -18,7 +18,7 @@ var sliderNav = function(manual){
    
 slides.forEach((slide) => {
     slide.classList.remove("active");
-});
+}); 
 
 contents.forEach((content) => {
     content.classList.remove("active");
