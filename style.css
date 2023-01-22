@@ -238,7 +238,7 @@ section{
         font-size: 0.8em;
         margin: 10px;
     }  
-    
+     
     header .navigation .navigation-items a:before{
         background: #222;
         height: 2px;
@@ -262,7 +262,7 @@ header .navigation.active .navigation-items{
     background-size: 15px;
     background-position: center;
     transition: 0.3s ease;
-}
+} 
 }
  
 @media (max-width: 560px){
