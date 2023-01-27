@@ -187,7 +187,7 @@ section{
 .slider-navigation .nav-btn:not(:last-child){
     margin-right: 20px;
 }
-
+ 
 .slider-navigation .nav-btn:hover{
     transform: scale(1.2);
 }   
